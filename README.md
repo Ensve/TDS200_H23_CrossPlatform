@@ -51,6 +51,6 @@ Details         |  Map  |  Gallery
 :-------------------------:|:-------------------------: |:-------------------------:
 <img width="383" alt="Skjermbilde 2023-12-14 kl  17 48 46" src="https://github.com/Ensve/TDS200_H23_CrossPlatform/assets/89137468/03a27e0e-9950-402d-949e-b81cc92006a8">  |  <img width="383" alt="Skjermbilde 2023-12-14 kl  17 48 03" src="https://github.com/Ensve/TDS200_H23_CrossPlatform/assets/89137468/83e172a9-8697-41d7-bcba-928ac2e4bffb">  |  <img width="383" alt="Skjermbilde 2023-12-14 kl  17 46 35" src="https://github.com/Ensve/TDS200_H23_CrossPlatform/assets/89137468/74ae4e98-f1fa-457b-8066-46aba3ce736b">
 
-Add Comment      
+Add Comment  |    
 :-------------------------: |
 <img width="383" alt="Skjermbilde 2023-12-14 kl  17 45 39" src="https://github.com/Ensve/TDS200_H23_CrossPlatform/assets/89137468/c2a3f13f-2b82-4f5a-ab00-bb19b5450c02">
