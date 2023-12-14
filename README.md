@@ -39,7 +39,7 @@ The user is presented a swiper when entering the application.
 
  Log in                    |  Register a new user         |    Home Feed 
 :-------------------------:|:-------------------------:|:-------------------------:
-
+<img width="383" alt="Skjermbilde 2023-12-14 kl  17 38 02" src="https://github.com/Ensve/TDS200_H23_CrossPlatform/assets/89137468/fe727e45-4a05-4c71-95b7-ffa33526e1e7">
 
 
 Upload |  Profile page
