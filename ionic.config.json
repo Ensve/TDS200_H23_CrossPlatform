@@ -1,0 +1,7 @@
+{
+  "name": "Exam2023",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
