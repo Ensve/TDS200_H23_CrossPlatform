@@ -29,7 +29,7 @@ import { defineCustomElements } from '@ionic/pwa-elements/loader';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAjJ7rEdhGO1wvmGyk9-f6_cKNRQ0ZOJx8",
+  apiKey: "{your api key}",
   authDomain: "exam-bb6d7.firebaseapp.com",
   projectId: "exam-bb6d7",
   storageBucket: "exam-bb6d7.appspot.com",
