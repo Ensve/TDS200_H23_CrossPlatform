@@ -3,7 +3,7 @@ interface Config {
 }
 
 const configFile: Config = {
-    googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY || 'AIzaSyCawbJau65Yyc0dqez7SThsG9lHaGfIkFo',
+    googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY || '{Your api key}',
 };
 
 export default configFile;
